@@ -1,0 +1,13 @@
+{
+  "id": "maths-ep1",
+  "titre": "Épreuve blanche — Nombres et calculs",
+  "dureeMinutes": 20,
+  "bareme": 20,
+  "questions": [
+    { "id": "q1", "type": "qcm", "enonce": "Quel est le plus grand nombre ?", "choix": ["5,08", "5,8", "5,18", "5,108"], "reponseCorrecte": 1, "explication": "5,8 = 5,80 est plus grand que les autres nombres proposés." },
+    { "id": "q2", "type": "qcm", "enonce": "Calcule : 3/8 + 2/8", "choix": ["5/8", "5/16", "1", "6/8"], "reponseCorrecte": 0, "explication": "Les dénominateurs étant identiques, on additionne les numérateurs : 3 + 2 = 5." },
+    { "id": "q3", "type": "qcm", "enonce": "Combien vaut 50 % de 34 ?", "choix": ["17", "34", "14", "68"], "reponseCorrecte": 0, "explication": "50 % correspond à la moitié. La moitié de 34 est 17." },
+    { "id": "q4", "type": "qcm", "enonce": "Calcule : 7 + 6 × 4", "choix": ["52", "31", "28", "35"], "reponseCorrecte": 1, "explication": "On calcule d'abord 6 × 4 = 24 puis 7 + 24 = 31." },
+    { "id": "q5", "type": "texte", "enonce": "10 cahiers identiques coûtent 18 €. Combien coûtent 15 cahiers ?", "explication": "Un cahier coûte 1,80 €. Donc 15 cahiers coûtent 27 €." }
+  ]
+}

@@ -1,0 +1,1 @@
+{ "id": "maths-e3", "type": "qcm", "question": "Calcule : 2/7 + 3/7", "choix": ["5/14", "5/7", "6/7", "1"], "reponseCorrecte": 1, "explication": "Les dénominateurs sont identiques, on additionne seulement les numérateurs : 2 + 3 = 5." }

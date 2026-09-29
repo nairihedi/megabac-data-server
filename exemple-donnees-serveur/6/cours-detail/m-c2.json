@@ -1,0 +1,5 @@
+{
+  "id": "m-c2",
+  "titre": "Fonction exponentielle",
+  "contenu": "<h2>Définition</h2><p>La fonction exponentielle, notée exp, est l'unique fonction dérivable sur ℝ telle que exp'(x) = exp(x) et exp(0) = 1.</p><h2>Propriétés algébriques</h2><p>Pour tous réels a et b : exp(a+b) = exp(a) × exp(b), exp(−a) = 1/exp(a), exp(a−b) = exp(a)/exp(b).</p><h2>Variations</h2><p>La fonction exponentielle est strictement croissante sur ℝ, toujours positive, et tend vers +∞ en +∞ et vers 0 en −∞.</p><h2>Dérivée d'une composée</h2><p>Si u est dérivable, alors (exp(u))' = u' × exp(u).</p>"
+}

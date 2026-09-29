@@ -1,0 +1,1 @@
+{ "id": "maths-e12", "type": "qcm", "question": "Quelle est l'aire d'un triangle de base 6 cm et de hauteur 4 cm ?", "choix": ["24 cm²", "12 cm²", "10 cm²", "14 cm²"], "reponseCorrecte": 1, "explication": "L'aire d'un triangle vaut base × hauteur ÷ 2, donc 6 × 4 ÷ 2 = 12 cm²." }

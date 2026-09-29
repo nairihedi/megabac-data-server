@@ -1,0 +1,1 @@
+{ "id": "maths-e13", "type": "qcm", "question": "Quelle est l'aire d'un disque de rayon 3 cm avec π ≈ 3,14 ?", "choix": ["28,26 cm²", "18,84 cm²", "9,42 cm²", "56,52 cm²"], "reponseCorrecte": 0, "explication": "L'aire d'un disque vaut π × r × r = 3,14 × 3 × 3 = 28,26 cm²." }

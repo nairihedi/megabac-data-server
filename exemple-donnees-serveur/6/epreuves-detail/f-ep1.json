@@ -1,0 +1,25 @@
+{
+  "id": "f-ep1",
+  "titre": "Épreuve blanche — Mouvements littéraires",
+  "dureeMinutes": 15,
+  "bareme": 20,
+  "questions": [
+    {
+      "id": "q1", "type": "qcm",
+      "enonce": "Quel auteur est associé au naturalisme et à l'étude de l'hérédité dans ses romans ?",
+      "choix": ["Victor Hugo", "Émile Zola", "Charles Baudelaire", "André Breton"], "reponseCorrecte": 1,
+      "explication": "Émile Zola est la figure majeure du naturalisme, qui applique une méthode quasi scientifique à l'écriture romanesque."
+    },
+    {
+      "id": "q2", "type": "qcm",
+      "enonce": "Quel mouvement poétique explore l'écriture automatique et l'inconscient ?",
+      "choix": ["Le romantisme", "Le symbolisme", "Le surréalisme", "Le classicisme"], "reponseCorrecte": 2,
+      "explication": "Le surréalisme, porté par Breton, Éluard et Desnos, explore l'écriture automatique pour libérer l'imaginaire des contraintes de la raison."
+    },
+    {
+      "id": "q3", "type": "texte",
+      "enonce": "Expliquez en quelques lignes ce qu'est le discours indirect libre et son intérêt pour un romancier réaliste.",
+      "explication": "Le discours indirect libre rapporte les pensées d'un personnage sans marque de subordination ni verbe introducteur, ce qui permet de restituer sa psychologie de l'intérieur tout en gardant la narration à la troisième personne — un outil clé du réalisme pour plonger le lecteur dans la conscience des personnages."
+    }
+  ]
+}

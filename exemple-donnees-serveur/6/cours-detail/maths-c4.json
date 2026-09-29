@@ -1,0 +1,5 @@
+{
+  "id": "maths-c4",
+  "titre": "Grandeurs et mesures",
+  "contenu": "<h2>Longueurs et périmètres</h2><p>Le périmètre est la longueur du contour d'une figure. On additionne les longueurs des côtés. Pour un cercle, on peut utiliser une formule avec le nombre pi, approché par 3,14.</p><h2>Aires</h2><p>L'aire mesure la surface. On sait calculer l'aire d'un rectangle, d'un triangle et d'un disque dans des situations simples.</p><h2>Volumes et contenances</h2><p>Le volume mesure l'espace occupé. On calcule le volume d'un cube ou d'un pavé droit. On relie aussi les unités : 1 L = 1 dm3.</p><h2>Durées et conversions</h2><p>Il faut savoir convertir des durées et des unités de mesure, parfois en plusieurs étapes, par exemple passer de secondes à heures, minutes et secondes.</p>"
+}

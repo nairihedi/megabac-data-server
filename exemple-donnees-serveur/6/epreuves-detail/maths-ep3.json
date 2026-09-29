@@ -1,0 +1,13 @@
+{
+  "id": "maths-ep3",
+  "titre": "Épreuve blanche — Géométrie",
+  "dureeMinutes": 20,
+  "bareme": 20,
+  "questions": [
+    { "id": "q1", "type": "qcm", "enonce": "Quel triangle possède trois côtés égaux ?", "choix": ["Rectangle", "Isocèle", "Équilatéral", "Scalène"], "reponseCorrecte": 2, "explication": "Un triangle équilatéral a trois côtés de même longueur." },
+    { "id": "q2", "type": "qcm", "enonce": "Un angle de 90° est un angle :", "choix": ["Aigu", "Obtus", "Droit", "Plat"], "reponseCorrecte": 2, "explication": "Un angle de 90° est un angle droit." },
+    { "id": "q3", "type": "qcm", "enonce": "Si deux droites sont perpendiculaires à une même droite, elles sont :", "choix": ["Sécantes", "Parallèles", "Confondues", "Obliques"], "reponseCorrecte": 1, "explication": "Deux droites perpendiculaires à une même droite sont parallèles." },
+    { "id": "q4", "type": "qcm", "enonce": "Que faut-il tracer d'abord pour construire le symétrique d'un point par rapport à un axe ?", "choix": ["Une parallèle à l'axe", "Un cercle", "La perpendiculaire à l'axe passant par le point", "La diagonale"], "reponseCorrecte": 2, "explication": "On commence par tracer la perpendiculaire à l'axe passant par le point." },
+    { "id": "q5", "type": "texte", "enonce": "Explique ce qu'est le milieu d'un segment.", "explication": "Le milieu d'un segment est le point de ce segment situé à égale distance de ses deux extrémités." }
+  ]
+}

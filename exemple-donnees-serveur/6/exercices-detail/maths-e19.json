@@ -1,0 +1,1 @@
+{ "id": "maths-e19", "type": "qcm", "question": "I est le milieu de [AB] et AB = 4 cm. Combien vaut IA ?", "choix": ["1 cm", "2 cm", "3 cm", "4 cm"], "reponseCorrecte": 1, "explication": "Le milieu partage le segment en deux parties égales. Donc IA = 2 cm." }

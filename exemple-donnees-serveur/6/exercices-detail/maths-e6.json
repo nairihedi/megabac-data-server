@@ -1,0 +1,1 @@
+{ "id": "maths-e6", "type": "qcm", "question": "Quel est le résultat de 3 + 4 × 8 ?", "choix": ["56", "35", "32", "59"], "reponseCorrecte": 1, "explication": "On effectue d'abord la multiplication : 4 × 8 = 32, puis on ajoute 3. On obtient 35." }

@@ -1,0 +1,1 @@
+{ "id": "maths-e20", "type": "qcm", "question": "Le plus court chemin d'un point à une droite est :", "choix": ["Un segment quelconque", "La parallèle", "La perpendiculaire", "Une courbe"], "reponseCorrecte": 2, "explication": "Le plus court chemin entre un point et une droite est porté par la perpendiculaire à cette droite." }

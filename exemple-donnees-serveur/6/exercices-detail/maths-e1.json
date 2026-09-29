@@ -1,0 +1,1 @@
+{ "id": "maths-e1", "type": "qcm", "question": "Quel nombre est le plus grand ?", "choix": ["3,45", "3,405", "3,5", "3,49"], "reponseCorrecte": 2, "explication": "3,5 est le plus grand, car 3,50 est supérieur à 3,49, 3,45 et 3,405." }

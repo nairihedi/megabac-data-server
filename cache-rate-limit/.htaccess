@@ -1,0 +1,5 @@
+# Empêche tout accès HTTP direct à ce dossier (Apache 2.4+).
+# Sur Apache 2.2, utiliser à la place :
+#   Order deny,allow
+#   Deny from all
+Require all denied

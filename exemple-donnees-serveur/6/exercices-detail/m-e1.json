@@ -1,0 +1,8 @@
+{
+  "id": "m-e1",
+  "type": "qcm",
+  "question": "Soit (u_n) une suite arithmétique avec u(0) = 3 et u(1) = 7. Quelle est sa raison ?",
+  "choix": ["2", "4", "7", "10"],
+  "reponseCorrecte": 1,
+  "explication": "La raison r = u(1) − u(0) = 7 − 3 = 4."
+}

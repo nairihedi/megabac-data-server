@@ -1,0 +1,1 @@
+{ "id": "maths-e10", "type": "qcm", "question": "Quel est le périmètre d'un rectangle de longueur 4 cm et de largeur 1,5 cm ?", "choix": ["5,5 cm", "8 cm", "11 cm", "12 cm"], "reponseCorrecte": 2, "explication": "Le périmètre d'un rectangle vaut 2 × (L + l) = 2 × (4 + 1,5) = 11 cm." }

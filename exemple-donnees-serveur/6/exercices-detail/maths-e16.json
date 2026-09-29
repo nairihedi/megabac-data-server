@@ -1,0 +1,1 @@
+{ "id": "maths-e16", "type": "qcm", "question": "Quel triangle a trois côtés de même longueur ?", "choix": ["Triangle rectangle", "Triangle isocèle", "Triangle équilatéral", "Triangle quelconque"], "reponseCorrecte": 2, "explication": "Un triangle équilatéral possède trois côtés de même longueur." }

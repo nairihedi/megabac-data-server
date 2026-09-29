@@ -1,0 +1,1 @@
+{ "id": "maths-e11", "type": "qcm", "question": "Quelle est la longueur d'un cercle de diamètre 20 cm avec π ≈ 3,14 ?", "choix": ["31,4 cm", "62,8 cm", "125,6 cm", "15,7 cm"], "reponseCorrecte": 1, "explication": "La longueur d'un cercle vaut π × diamètre, soit 3,14 × 20 = 62,8 cm." }

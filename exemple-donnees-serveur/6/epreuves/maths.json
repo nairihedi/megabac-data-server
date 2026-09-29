@@ -1,0 +1,5 @@
+[
+  { "id": "maths-ep1", "titre": "Épreuve blanche — Nombres et calculs", "dureeMinutes": 20, "nbQuestions": 5 },
+  { "id": "maths-ep2", "titre": "Épreuve blanche — Grandeurs et mesures", "dureeMinutes": 20, "nbQuestions": 5 },
+  { "id": "maths-ep3", "titre": "Épreuve blanche — Géométrie", "dureeMinutes": 20, "nbQuestions": 5 }
+]

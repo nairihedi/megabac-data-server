@@ -1,0 +1,1 @@
+{ "id": "maths-e14", "type": "qcm", "question": "Quel est le volume d'un pavé droit de 30 cm, 25 cm et 15 cm ?", "choix": ["11 250 cm3", "1 125 cm3", "70 cm3", "750 cm3"], "reponseCorrecte": 0, "explication": "Le volume d'un pavé droit vaut longueur × largeur × hauteur = 30 × 25 × 15 = 11 250 cm3." }

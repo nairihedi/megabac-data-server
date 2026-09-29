@@ -1,0 +1,1 @@
+{ "id": "maths-e2", "type": "qcm", "question": "Quel encadrement par deux entiers consécutifs est correct pour 28,459 ?", "choix": ["27 < 28,459 < 28", "28 < 28,459 < 29", "28 < 28,459 < 30", "29 < 28,459 < 30"], "reponseCorrecte": 1, "explication": "Le nombre 28,459 est supérieur à 28 et inférieur à 29." }

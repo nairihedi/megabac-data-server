@@ -1,0 +1,13 @@
+{
+  "id": "maths-ep2",
+  "titre": "Épreuve blanche — Grandeurs et mesures",
+  "dureeMinutes": 20,
+  "bareme": 20,
+  "questions": [
+    { "id": "q1", "type": "qcm", "enonce": "Quel est le périmètre d'un rectangle de 8 cm sur 3 cm ?", "choix": ["11 cm", "22 cm", "24 cm", "16 cm"], "reponseCorrecte": 1, "explication": "2 × (8 + 3) = 22 cm." },
+    { "id": "q2", "type": "qcm", "enonce": "Quelle est l'aire d'un triangle de base 10 cm et hauteur 6 cm ?", "choix": ["60 cm²", "30 cm²", "16 cm²", "20 cm²"], "reponseCorrecte": 1, "explication": "10 × 6 ÷ 2 = 30 cm²." },
+    { "id": "q3", "type": "qcm", "enonce": "Quelle est la longueur d'un cercle de diamètre 10 cm avec π ≈ 3,14 ?", "choix": ["15,7 cm", "31,4 cm", "62,8 cm", "28,26 cm"], "reponseCorrecte": 1, "explication": "La longueur du cercle vaut π × diamètre, soit 31,4 cm." },
+    { "id": "q4", "type": "qcm", "enonce": "1 L correspond à :", "choix": ["1 cm3", "1 dm3", "10 dm3", "100 cm3"], "reponseCorrecte": 1, "explication": "On sait que 1 L = 1 dm3." },
+    { "id": "q5", "type": "texte", "enonce": "34 990 secondes correspondent à combien d'heures, minutes et secondes ?", "explication": "34 990 s correspondent à 9 h 43 min 10 s." }
+  ]
+}

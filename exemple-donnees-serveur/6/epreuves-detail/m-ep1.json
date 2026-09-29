@@ -1,0 +1,31 @@
+{
+  "id": "m-ep1",
+  "titre": "Épreuve blanche — Suites et exponentielle",
+  "dureeMinutes": 20,
+  "bareme": 20,
+  "questions": [
+    {
+      "id": "q1", "type": "qcm",
+      "enonce": "u(0) = 5 et r = 3 (suite arithmétique). Que vaut u(4) ?",
+      "choix": ["15", "17", "20", "23"], "reponseCorrecte": 1,
+      "explication": "u(4) = u(0) + 4×r = 5 + 12 = 17."
+    },
+    {
+      "id": "q2", "type": "qcm",
+      "enonce": "Une suite géométrique de raison q = 2 et u(0) = 1 : que vaut u(5) ?",
+      "choix": ["10", "16", "32", "64"], "reponseCorrecte": 2,
+      "explication": "u(5) = u(0) × q^5 = 1 × 32 = 32."
+    },
+    {
+      "id": "q3", "type": "qcm",
+      "enonce": "Quelle est la dérivée de la fonction f(x) = exp(x) ?",
+      "choix": ["exp(x)", "x × exp(x)", "1/exp(x)", "exp(x) − 1"], "reponseCorrecte": 0,
+      "explication": "La fonction exponentielle est sa propre dérivée : exp'(x) = exp(x)."
+    },
+    {
+      "id": "q4", "type": "texte",
+      "enonce": "Expliquez la différence entre une suite arithmétique et une suite géométrique.",
+      "explication": "Une suite arithmétique progresse par addition d'une raison constante r (u(n+1) = u(n) + r), tandis qu'une suite géométrique progresse par multiplication par une raison constante q (u(n+1) = u(n) × q)."
+    }
+  ]
+}

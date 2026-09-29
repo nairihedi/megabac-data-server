@@ -1,0 +1,1 @@
+{ "id": "maths-e17", "type": "qcm", "question": "Un angle de 150° est :", "choix": ["Aigu", "Droit", "Obtus", "Plat"], "reponseCorrecte": 2, "explication": "Un angle obtus est supérieur à 90° et inférieur à 180°. 150° est donc obtus." }

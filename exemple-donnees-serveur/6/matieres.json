@@ -1,0 +1,5 @@
+[
+  { "id": "maths", "nom": "Mathématiques", "icone": "📐" },
+  { "id": "francais", "nom": "Français", "icone": "✒️" },
+  { "id": "histoire", "nom": "Histoire-Géographie", "icone": "🗺️" }
+]

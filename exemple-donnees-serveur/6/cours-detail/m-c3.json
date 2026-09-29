@@ -1,0 +1,5 @@
+{
+  "id": "m-c3",
+  "titre": "Probabilités conditionnelles",
+  "contenu": "<h2>Probabilité conditionnelle</h2><p>Pour deux événements A et B avec P(B) ≠ 0, la probabilité de A sachant B est P_B(A) = P(A ∩ B) / P(B).</p><h2>Arbre pondéré</h2><p>Sur chaque branche, on indique une probabilité. La somme des probabilités issues d'un même nœud vaut 1. La probabilité d'un chemin est le produit des probabilités le long des branches.</p><h2>Indépendance</h2><p>Deux événements A et B sont indépendants si P(A ∩ B) = P(A) × P(B), ce qui équivaut à P_B(A) = P(A).</p><h2>Formule des probabilités totales</h2><p>Si B1, B2, …, Bn forment une partition de l'univers, alors P(A) = Σ P(Bi) × P_Bi(A).</p>"
+}

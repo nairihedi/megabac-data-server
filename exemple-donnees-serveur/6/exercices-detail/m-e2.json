@@ -1,0 +1,8 @@
+{
+  "id": "m-e2",
+  "type": "qcm",
+  "question": "Une suite géométrique a pour premier terme u(0) = 2 et pour raison q = 3. Que vaut u(3) ?",
+  "choix": ["18", "27", "54", "81"],
+  "reponseCorrecte": 2,
+  "explication": "u(3) = u(0) × q^3 = 2 × 27 = 54."
+}

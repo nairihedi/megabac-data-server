@@ -1,0 +1,1 @@
+{ "id": "maths-e7", "type": "qcm", "question": "Un DVD coûte 7,50 € et trois CD coûtent 4,90 € chacun. Quel est le prix total ?", "choix": ["19,70 €", "22,20 €", "21,70 €", "24,90 €"], "reponseCorrecte": 1, "explication": "3 × 4,90 = 14,70 puis 14,70 + 7,50 = 22,20 €." }

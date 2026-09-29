@@ -1,0 +1,31 @@
+{
+  "id": "h-ep1",
+  "titre": "Épreuve blanche — Guerre froide et décolonisation",
+  "dureeMinutes": 20,
+  "bareme": 20,
+  "questions": [
+    {
+      "id": "q1", "type": "qcm",
+      "enonce": "Quel événement de 1962 illustre la tension extrême entre les États-Unis et l'URSS sans affrontement direct ?",
+      "choix": ["Le blocus de Berlin", "La guerre de Corée", "La crise des missiles de Cuba", "La guerre du Vietnam"], "reponseCorrecte": 2,
+      "explication": "La crise des missiles de Cuba, en octobre 1962, amène le monde au bord d'un conflit nucléaire direct entre les deux superpuissances."
+    },
+    {
+      "id": "q2", "type": "qcm",
+      "enonce": "Quels accords mettent fin à la guerre d'Algérie en 1962 ?",
+      "choix": ["Les accords de Genève", "Les accords d'Évian", "Les accords de Yalta", "Les accords de Munich"], "reponseCorrecte": 1,
+      "explication": "Les accords d'Évian, signés en mars 1962, actent le cessez-le-feu et ouvrent la voie à l'indépendance de l'Algérie."
+    },
+    {
+      "id": "q3", "type": "qcm",
+      "enonce": "Quel mouvement rassemble des pays refusant de choisir un camp pendant la guerre froide ?",
+      "choix": ["Le pacte de Varsovie", "L'OTAN", "Le mouvement des non-alignés", "Le Kominform"], "reponseCorrecte": 2,
+      "explication": "Le mouvement des non-alignés, structuré notamment lors de la conférence de Bandung (1955), rassemble des pays issus de la décolonisation refusant de s'aligner sur l'un des deux blocs."
+    },
+    {
+      "id": "q4", "type": "texte",
+      "enonce": "Expliquez ce que signifie la « bipolarisation » du monde après 1947.",
+      "explication": "La bipolarisation désigne l'organisation du monde autour de deux blocs opposés — le bloc occidental mené par les États-Unis (OTAN) et le bloc soviétique mené par l'URSS (pacte de Varsovie) — sur les plans idéologique, économique et militaire, chaque camp cherchant à étendre son influence sans affrontement armé direct entre les deux Grands."
+    }
+  ]
+}

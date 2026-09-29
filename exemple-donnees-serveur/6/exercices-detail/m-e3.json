@@ -1,0 +1,6 @@
+{
+  "id": "m-e3",
+  "type": "texte",
+  "question": "Calculez la dérivée de la fonction f définie par f(x) = exp(2x + 1).",
+  "explication": "f est de la forme exp(u) avec u(x) = 2x + 1, donc u'(x) = 2. On a donc f'(x) = u'(x) × exp(u(x)) = 2 × exp(2x + 1)."
+}

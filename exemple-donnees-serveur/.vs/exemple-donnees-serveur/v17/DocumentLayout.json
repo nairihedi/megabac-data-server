@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PERSO\\Android\\Megabac\\_ressources\\megabac-app\\exemple-donnees-serveur\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PERSO\\Android\\Megabac\\_ressources\\megabac-app\\exemple-donnees-serveur\\6\\cours-detail\\f-c1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:6\\cours-detail\\f-c1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PERSO\\Android\\Megabac\\_ressources\\megabac-app\\exemple-donnees-serveur\\6\\cours\\maths.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:6\\cours\\maths.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PERSO\\Android\\Megabac\\_ressources\\megabac-app\\exemple-donnees-serveur\\6\\cours\\histoire.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:6\\cours\\histoire.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PERSO\\Android\\Megabac\\_ressources\\megabac-app\\exemple-donnees-serveur\\6\\cours\\francais.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:6\\cours\\francais.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PERSO\\Android\\Megabac\\_ressources\\megabac-app\\exemple-donnees-serveur\\6\\matieres.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:6\\matieres.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PERSO\\Android\\Megabac\\_ressources\\megabac-app\\exemple-donnees-serveur\\6\\matieres\\maths\\version.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:6\\matieres\\maths\\version.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PERSO\\Android\\Megabac\\_ressources\\megabac-app\\exemple-donnees-serveur\\6\\matieres\\histoire\\version.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:6\\matieres\\histoire\\version.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PERSO\\Android\\Megabac\\_ressources\\megabac-app\\exemple-donnees-serveur\\6\\matieres\\francais\\version.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:6\\matieres\\francais\\version.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PERSO\\Android\\Megabac\\_ressources\\megabac-app\\exemple-donnees-serveur\\6\\version.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:6\\version.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 337,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cf577b8c-4134-11d2-83e5-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "f-c1.json",
+              "DocumentMoniker": "C:\\PERSO\\Android\\Megabac\\_ressources\\megabac-app\\exemple-donnees-serveur\\6\\cours-detail\\f-c1.json",
+              "RelativeDocumentMoniker": "6\\cours-detail\\f-c1.json",
+              "ToolTip": "C:\\PERSO\\Android\\Megabac\\_ressources\\megabac-app\\exemple-donnees-serveur\\6\\cours-detail\\f-c1.json",
+              "RelativeToolTip": "6\\cours-detail\\f-c1.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-10T14:11:44.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "maths.json",
+              "DocumentMoniker": "C:\\PERSO\\Android\\Megabac\\_ressources\\megabac-app\\exemple-donnees-serveur\\6\\cours\\maths.json",
+              "RelativeDocumentMoniker": "6\\cours\\maths.json",
+              "ToolTip": "C:\\PERSO\\Android\\Megabac\\_ressources\\megabac-app\\exemple-donnees-serveur\\6\\cours\\maths.json",
+              "RelativeToolTip": "6\\cours\\maths.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-10T13:07:16.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "histoire.json",
+              "DocumentMoniker": "C:\\PERSO\\Android\\Megabac\\_ressources\\megabac-app\\exemple-donnees-serveur\\6\\cours\\histoire.json",
+              "RelativeDocumentMoniker": "6\\cours\\histoire.json",
+              "ToolTip": "C:\\PERSO\\Android\\Megabac\\_ressources\\megabac-app\\exemple-donnees-serveur\\6\\cours\\histoire.json",
+              "RelativeToolTip": "6\\cours\\histoire.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-10T13:07:11.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "francais.json",
+              "DocumentMoniker": "C:\\PERSO\\Android\\Megabac\\_ressources\\megabac-app\\exemple-donnees-serveur\\6\\cours\\francais.json",
+              "RelativeDocumentMoniker": "6\\cours\\francais.json",
+              "ToolTip": "C:\\PERSO\\Android\\Megabac\\_ressources\\megabac-app\\exemple-donnees-serveur\\6\\cours\\francais.json",
+              "RelativeToolTip": "6\\cours\\francais.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-10T13:06:57.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "version.json",
+              "DocumentMoniker": "C:\\PERSO\\Android\\Megabac\\_ressources\\megabac-app\\exemple-donnees-serveur\\6\\matieres\\maths\\version.json",
+              "RelativeDocumentMoniker": "6\\matieres\\maths\\version.json",
+              "ToolTip": "C:\\PERSO\\Android\\Megabac\\_ressources\\megabac-app\\exemple-donnees-serveur\\6\\matieres\\maths\\version.json",
+              "RelativeToolTip": "6\\matieres\\maths\\version.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-10T13:06:25.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "version.json",
+              "DocumentMoniker": "C:\\PERSO\\Android\\Megabac\\_ressources\\megabac-app\\exemple-donnees-serveur\\6\\matieres\\histoire\\version.json",
+              "RelativeDocumentMoniker": "6\\matieres\\histoire\\version.json",
+              "ToolTip": "C:\\PERSO\\Android\\Megabac\\_ressources\\megabac-app\\exemple-donnees-serveur\\6\\matieres\\histoire\\version.json",
+              "RelativeToolTip": "6\\matieres\\histoire\\version.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-10T13:06:22.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "version.json",
+              "DocumentMoniker": "C:\\PERSO\\Android\\Megabac\\_ressources\\megabac-app\\exemple-donnees-serveur\\6\\matieres\\francais\\version.json",
+              "RelativeDocumentMoniker": "6\\matieres\\francais\\version.json",
+              "ToolTip": "C:\\PERSO\\Android\\Megabac\\_ressources\\megabac-app\\exemple-donnees-serveur\\6\\matieres\\francais\\version.json",
+              "RelativeToolTip": "6\\matieres\\francais\\version.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-10T13:06:19.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "matieres.json",
+              "DocumentMoniker": "C:\\PERSO\\Android\\Megabac\\_ressources\\megabac-app\\exemple-donnees-serveur\\6\\matieres.json",
+              "RelativeDocumentMoniker": "6\\matieres.json",
+              "ToolTip": "C:\\PERSO\\Android\\Megabac\\_ressources\\megabac-app\\exemple-donnees-serveur\\6\\matieres.json",
+              "RelativeToolTip": "6\\matieres.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-10T13:06:12.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "version.json",
+              "DocumentMoniker": "C:\\PERSO\\Android\\Megabac\\_ressources\\megabac-app\\exemple-donnees-serveur\\6\\version.json",
+              "RelativeDocumentMoniker": "6\\version.json",
+              "ToolTip": "C:\\PERSO\\Android\\Megabac\\_ressources\\megabac-app\\exemple-donnees-serveur\\6\\version.json",
+              "RelativeToolTip": "6\\version.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-10T13:06:07.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 120,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

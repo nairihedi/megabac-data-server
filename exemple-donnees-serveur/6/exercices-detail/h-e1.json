@@ -1,0 +1,8 @@
+{
+  "id": "h-e1",
+  "type": "qcm",
+  "question": "En quelle année le mur de Berlin tombe-t-il ?",
+  "choix": ["1961", "1975", "1989", "1991"],
+  "reponseCorrecte": 2,
+  "explication": "Le mur de Berlin tombe en 1989, marquant symboliquement la fin de la guerre froide ; l'URSS se dissout deux ans plus tard, en 1991."
+}

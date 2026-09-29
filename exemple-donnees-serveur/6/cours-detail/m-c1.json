@@ -1,0 +1,5 @@
+{
+  "id": "m-c1",
+  "titre": "Suites numériques",
+  "contenu": "<h2>Définition</h2><p>Une suite est une fonction définie sur les entiers naturels. On note u_n le terme de rang n.</p><h2>Suites arithmétiques</h2><p>Une suite est arithmétique de raison r si, pour tout n, u(n+1) = u(n) + r. Le terme général est u(n) = u(0) + n×r.</p><h2>Suites géométriques</h2><p>Une suite est géométrique de raison q si, pour tout n, u(n+1) = u(n) × q. Le terme général est u(n) = u(0) × q^n.</p><h2>Somme des termes</h2><p>Pour une suite arithmétique, la somme des n+1 premiers termes vaut (n+1) × (u(0) + u(n)) / 2. Pour une suite géométrique de raison q ≠ 1, la somme vaut u(0) × (1 − q^(n+1)) / (1 − q).</p>"
+}

@@ -1,0 +1,22 @@
+[
+  { "id": "maths-e1", "titre": "Comparer des nombres décimaux", "difficulte": "Facile" },
+  { "id": "maths-e2", "titre": "Encadrer un nombre décimal", "difficulte": "Facile" },
+  { "id": "maths-e3", "titre": "Addition de fractions simples", "difficulte": "Facile" },
+  { "id": "maths-e4", "titre": "Relier fraction et partage", "difficulte": "Facile" },
+  { "id": "maths-e5", "titre": "Multiplier par 0,5", "difficulte": "Facile" },
+  { "id": "maths-e6", "titre": "Priorité des opérations", "difficulte": "Moyen" },
+  { "id": "maths-e7", "titre": "Problème de prix total", "difficulte": "Moyen" },
+  { "id": "maths-e8", "titre": "Situation de proportionnalité", "difficulte": "Moyen" },
+  { "id": "maths-e9", "titre": "Calculer un pourcentage simple", "difficulte": "Moyen" },
+  { "id": "maths-e10", "titre": "Périmètre d'un rectangle", "difficulte": "Facile" },
+  { "id": "maths-e11", "titre": "Longueur d'un cercle", "difficulte": "Moyen" },
+  { "id": "maths-e12", "titre": "Aire d'un triangle", "difficulte": "Moyen" },
+  { "id": "maths-e13", "titre": "Aire d'un disque", "difficulte": "Moyen" },
+  { "id": "maths-e14", "titre": "Volume d'un pavé droit", "difficulte": "Moyen" },
+  { "id": "maths-e15", "titre": "Conversion de durées", "difficulte": "Moyen" },
+  { "id": "maths-e16", "titre": "Reconnaître un triangle", "difficulte": "Facile" },
+  { "id": "maths-e17", "titre": "Mesure d'un angle", "difficulte": "Facile" },
+  { "id": "maths-e18", "titre": "Symétrie axiale", "difficulte": "Moyen" },
+  { "id": "maths-e19", "titre": "Milieu d'un segment", "difficulte": "Moyen" },
+  { "id": "maths-e20", "titre": "Distance d'un point à une droite", "difficulte": "Difficile" }
+]
