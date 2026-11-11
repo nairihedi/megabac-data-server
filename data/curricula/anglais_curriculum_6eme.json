@@ -1,0 +1,119 @@
+{
+  "matiere": "Anglais (Langues vivantes étrangères)",
+  "niveau": "6ème",
+  "programme_bo": "BO n° 22 du 29 mai 2025",
+  "description": "Programme de langues vivantes étrangères pour le cycle 3 (classe de 6ème)",
+  "niveau_cecrl": "A1",
+  "domaines_apprentissage": [
+    {
+      "id": "CO",
+      "nom": "Compréhension orale",
+      "description": "Développer l'écoute et la compréhension de l'anglais",
+      "competences": [
+        {
+          "id": "CO.1",
+          "titre": "Écouter et identifier",
+          "description": "Identifier des mots clés dans un document audio"
+        },
+        {
+          "id": "CO.2",
+          "titre": "Comprendre un message",
+          "description": "Comprendre le sens global d'un énoncé"
+        }
+      ],
+      "concepts_cles": [
+        "Phonétique",
+        "Accent tonique",
+        "Intonation"
+      ]
+    },
+    {
+      "id": "PO",
+      "nom": "Production orale",
+      "description": "Développer la parole et l'expression orale",
+      "competences": [
+        {
+          "id": "PO.1",
+          "titre": "Prononcer correctement",
+          "description": "Produire des sons et des mots correctement"
+        },
+        {
+          "id": "PO.2",
+          "titre": "S'exprimer",
+          "description": "Produire des énoncés simples"
+        }
+      ],
+      "concepts_cles": [
+        "Prononciation",
+        "Accentuation",
+        "Rythme"
+      ]
+    },
+    {
+      "id": "CE",
+      "nom": "Compréhension écrite",
+      "description": "Développer la lecture et la compréhension de textes anglais",
+      "competences": [
+        {
+          "id": "CE.1",
+          "titre": "Lire et identifier",
+          "description": "Identifier des informations dans un texte écrit"
+        }
+      ],
+      "concepts_cles": [
+        "Vocabulaire",
+        "Structures grammaticales"
+      ]
+    },
+    {
+      "id": "PE",
+      "nom": "Production écrite",
+      "description": "Développer l'écriture en anglais",
+      "competences": [
+        {
+          "id": "PE.1",
+          "titre": "Écrire",
+          "description": "Produire des énoncés simples à l'écrit"
+        }
+      ],
+      "concepts_cles": [
+        "Orthographe",
+        "Structures de base"
+      ]
+    }
+  ],
+  "vocabulaire_themes": [
+    "Présentation personnelle",
+    "Famille",
+    "Animaux",
+    "Aliments",
+    "Habitat",
+    "Vêtements",
+    "Loisirs"
+  ],
+  "structures_grammaticales": [
+    "Présent simple du verbe 'to be'",
+    "Présent simple du verbe 'have got'",
+    "Verbes d'action simples",
+    "Pluriels réguliers",
+    "Articles (a, an, the)"
+  ],
+  "evaluation": {
+    "types_exercices": [
+      "Compréhension orale",
+      "Prononciation",
+      "Vocabulaire",
+      "Structures grammaticales",
+      "Production orale simple",
+      "Production écrite simple"
+    ]
+  },
+  "sources": {
+    "programme_officiel": "Bulletin Officiel n° 22 du 29 mai 2025"
+  },
+  "_metadata": {
+    "created_at": "2026-10-01T12:14:27.335323",
+    "version": "1.0",
+    "format": "JSON Curriculum"
+  }
+}

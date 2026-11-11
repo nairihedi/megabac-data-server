@@ -1,0 +1,146 @@
+{
+  "matiere": "Mathématiques",
+  "niveau": "6ème",
+  "programme_bo": "BO n° 16 du 17 avril 2025",
+  "description": "Programme de mathématiques pour le cycle 3 (classe de 6ème)",
+  "domaines_apprentissage": [
+    {
+      "id": "NC",
+      "nom": "Nombres et Calculs",
+      "description": "Maîtriser la manipulation des nombres et les opérations",
+      "competences": [
+        {
+          "id": "NC.1",
+          "titre": "Comprendre les nombres décimaux",
+          "description": "Lire, écrire et comparer les nombres décimaux"
+        },
+        {
+          "id": "NC.2",
+          "titre": "Opérations",
+          "description": "Additionner, soustraire, multiplier et diviser"
+        },
+        {
+          "id": "NC.3",
+          "titre": "Fractions",
+          "description": "Comprendre et utiliser les fractions"
+        }
+      ],
+      "concepts_cles": [
+        "Nombre entier",
+        "Nombre décimal",
+        "Fraction",
+        "Pourcentage"
+      ]
+    },
+    {
+      "id": "GEO",
+      "nom": "Géométrie",
+      "description": "Développer le raisonnement géométrique",
+      "competences": [
+        {
+          "id": "GEO.1",
+          "titre": "Propriétés géométriques",
+          "description": "Identifier et utiliser les propriétés des formes"
+        },
+        {
+          "id": "GEO.2",
+          "titre": "Constructions géométriques",
+          "description": "Construire et représenter des figures"
+        },
+        {
+          "id": "GEO.3",
+          "titre": "Symétries et transformations",
+          "description": "Comprendre les symétries et les transformations géométriques"
+        }
+      ],
+      "concepts_cles": [
+        "Point",
+        "Droite",
+        "Angle",
+        "Triangle",
+        "Polygone",
+        "Symétrie"
+      ]
+    },
+    {
+      "id": "GM",
+      "nom": "Grandeurs et Mesures",
+      "description": "Développer la compréhension des grandeurs et des mesures",
+      "competences": [
+        {
+          "id": "GM.1",
+          "titre": "Longueurs et distances",
+          "description": "Mesurer et calculer des distances"
+        },
+        {
+          "id": "GM.2",
+          "titre": "Aires et volumes",
+          "description": "Calculer des aires et des volumes"
+        },
+        {
+          "id": "GM.3",
+          "titre": "Durées et temps",
+          "description": "Lire l'heure et calculer des durées"
+        }
+      ],
+      "concepts_cles": [
+        "Unité de mesure",
+        "Longueur",
+        "Aire",
+        "Volume",
+        "Temps"
+      ]
+    }
+  ],
+  "progression_annuelle": [
+    {
+      "trimestre": 1,
+      "titre": "Trimestre 1 - Nombres et opérations",
+      "themes": [
+        "Nombres entiers et décimaux",
+        "Opérations de base"
+      ]
+    },
+    {
+      "trimestre": 2,
+      "titre": "Trimestre 2 - Géométrie",
+      "themes": [
+        "Formes et figures",
+        "Constructions géométriques"
+      ]
+    },
+    {
+      "trimestre": 3,
+      "titre": "Trimestre 3 - Grandeurs et applications",
+      "themes": [
+        "Mesures",
+        "Problèmes concrets"
+      ]
+    }
+  ],
+  "evaluation": {
+    "types_exercices": [
+      "Calcul mental",
+      "Calcul posé",
+      "Résolution de problèmes",
+      "Constructions géométriques",
+      "Mesures et calcul de grandeurs"
+    ],
+    "criteres_evaluation": [
+      "Compréhension du problème",
+      "Procédure de résolution",
+      "Exactitude du résultat",
+      "Justification de la réponse",
+      "Précision des constructions"
+    ]
+  },
+  "sources": {
+    "programme_officiel": "Bulletin Officiel n° 16 du 17 avril 2025",
+    "pdf_telechargé": "data/pdfs_programmes/02_MATHEMATIQUES_cycle3.pdf"
+  },
+  "_metadata": {
+    "created_at": "2026-10-01T12:14:27.334382",
+    "version": "1.0",
+    "format": "JSON Curriculum"
+  }
+}

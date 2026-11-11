@@ -1,0 +1,30 @@
+{
+  "matiere": "Histoire-Géographie",
+  "niveau": "6ème",
+  "total_courses": 1,
+  "courses": [
+    {
+      "id": "HG_001",
+      "titre": "S'orienter sur une carte",
+      "domaine": "Géographie",
+      "objectifs": [
+        "Comprendre les points cardinaux",
+        "Lire les coordonnées sur une carte",
+        "Se repérer en utilisant une carte"
+      ],
+      "contenu": "\n## Les points cardinaux\n\nIl existe 4 points cardinaux qui permettent de s'orienter:\n\n### Nord (N)\n- Vers le haut d'une carte\n- Où le soleil ne va jamais très haut\n\n### Sud (S)\n- Vers le bas d'une carte\n- Opposé du Nord\n\n### Est (E)\n- Vers la droite d'une carte\n- Où le soleil se lève\n\n### Ouest (O)\n- Vers la gauche d'une carte\n- Où le soleil se couche\n\n## Les points cardinaux intermédiaires\n\nEntre les quatre points cardinaux, il y a des directions intermédiaires:\n- Nord-Est (NE)\n- Nord-Ouest (NO)\n- Sud-Est (SE)\n- Sud-Ouest (SO)\n\n## Comment utiliser une boussole?\n\n1. Tenir la boussole horizontalement\n2. L'aiguille rouge pointe toujours vers le Nord\n3. Tourner la carte pour aligner le Nord de la carte avec l'aiguille\n4. Vous pouvez maintenant lire la carte correctement\n\n## Lire les coordonnées géographiques\n\nChaque point sur Terre peut être localisé avec:\n- **Latitude**: Distance par rapport à l'équateur (0° à 90° Nord ou Sud)\n- **Longitude**: Distance par rapport au méridien de Greenwich (0° à 180° Est ou Ouest)\n\n### Exemple:\nParis = 48,5° N, 2,3° E\n- 48,5° Nord = 48,5° au-dessus de l'équateur\n- 2,3° Est = 2,3° à l'est du méridien de Greenwich\n",
+      "concepts_cles": {
+        "Points cardinaux": "Nord, Sud, Est, Ouest - directions fondamentales",
+        "Équateur": "Ligne imaginaire qui divise la Terre en deux",
+        "Méridien": "Ligne imaginaire du Nord au Sud",
+        "Latitude": "Position par rapport à l'équateur",
+        "Longitude": "Position par rapport au méridien de Greenwich"
+      },
+      "exercices_exemples": [
+        "Sur une carte de France, où est la Bretagne par rapport à Paris?",
+        "Identifiez les pays au Nord de la France",
+        "Utilisez une boussole pour vous orienter"
+      ]
+    }
+  ]
+}

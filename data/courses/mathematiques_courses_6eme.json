@@ -1,0 +1,52 @@
+{
+  "matiere": "Mathématiques",
+  "niveau": "6ème",
+  "total_courses": 2,
+  "courses": [
+    {
+      "id": "MATH_001",
+      "titre": "Les nombres décimaux",
+      "domaine": "Nombres et Calculs",
+      "objectifs": [
+        "Comprendre la structure des nombres décimaux",
+        "Lire et écrire les nombres décimaux",
+        "Comparer des nombres décimaux"
+      ],
+      "contenu": "\n## Qu'est-ce qu'un nombre décimal?\n\nUn nombre décimal est un nombre qui possède deux parties:\n- Une **partie entière** (avant la virgule)\n- Une **partie décimale** (après la virgule)\n\n### Exemple:\n```\n    12,5\n    ↑  ↑\n  partie partie\n  entière décimale\n```\n\n## Les chiffres après la virgule\n\nChaque chiffre après la virgule représente une fraction:\n- 1er chiffre = dixièmes (1/10)\n- 2e chiffre = centièmes (1/100)\n- 3e chiffre = millièmes (1/1000)\n\n### Exemple: 3,456\n- 3 = trois unités\n- 4 = quatre dixièmes\n- 5 = cinq centièmes\n- 6 = six millièmes\n\n## Lire un nombre décimal\n\n12,5 se lit: \"douze virgule cinq\" ou \"douze et cinq dixièmes\"\n\n## Comparer des nombres décimaux\n\nPour comparer deux nombres décimaux, on compare d'abord la partie entière:\n- 12,5 > 11,8 (car 12 > 11)\n- 5,3 < 5,8 (car 5 = 5, mais 3 < 8)\n\n### La règle:\n1. Comparer la partie entière\n2. Si elle est égale, comparer la première décimale\n3. Si elle est égale, comparer la deuxième décimale, etc.\n",
+      "concepts_cles": {
+        "Nombre décimal": "Nombre avec une partie entière et décimale",
+        "Virgule": "Séparateur entre la partie entière et décimale",
+        "Dixième": "1/10 = 0,1",
+        "Centième": "1/100 = 0,01",
+        "Millième": "1/1000 = 0,001"
+      },
+      "exercices_exemples": [
+        "Écrivez 'quinze virgule trois' en chiffres",
+        "Comparez: 7,2 et 7,21",
+        "Identifiez les dixièmes dans 4,567"
+      ]
+    },
+    {
+      "id": "MATH_002",
+      "titre": "Les opérations avec les décimaux",
+      "domaine": "Nombres et Calculs",
+      "objectifs": [
+        "Additionner des nombres décimaux",
+        "Soustraire des nombres décimaux",
+        "Calculer correctement en plaçant la virgule"
+      ],
+      "contenu": "\n## Additionner des décimaux\n\nLa règle principale: **Aligner les virgules!**\n\n### Exemple: 12,5 + 7,3\n\n```\n  12,5\n+  7,3\n------\n  19,8\n```\n\n### Étapes:\n1. Aligner les virgules verticalement\n2. Additionner colonne par colonne (de droite à gauche)\n3. Placer la virgule au même endroit\n\n## Soustraire des décimaux\n\nLa même règle s'applique: **Aligner les virgules!**\n\n### Exemple: 15,7 - 8,2\n\n```\n  15,7\n-  8,2\n------\n   7,5\n```\n\n### Cas où il faut emprunter:\n\nExemple: 12,3 - 5,8\n\n```\n  12,3\n-  5,8\n------\n   6,5\n```\n\nComme 3 < 8, on emprunte 1 à la partie entière: 13 - 8 = 5, mais on doit aussi compter 3\n\n## Astuces\n\n- Toujours aligner les virgules avant de calculer\n- Vérifier que le résultat a du sens (plus grand pour une addition, plus petit pour une soustraction)\n- Utiliser du papier brouillon pour bien présenter le calcul\n",
+      "concepts_cles": {
+        "Virgule": "Doit être alignée lors du calcul",
+        "Addition": "Augmente le nombre",
+        "Soustraction": "Diminue le nombre",
+        "Emprunt": "Technique pour soustraire quand le chiffre du bas > chiffre du haut"
+      },
+      "exercices_exemples": [
+        "Calculez: 23,5 + 12,7",
+        "Calculez: 50,2 - 15,8",
+        "Posez et calculez: 8,34 + 12,56"
+      ]
+    }
+  ]
+}

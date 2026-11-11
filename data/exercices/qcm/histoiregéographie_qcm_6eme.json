@@ -1,0 +1,193 @@
+{
+  "subject": "Histoire-Géographie",
+  "niveau": "6ème",
+  "total": 6,
+  "qcm": [
+    {
+      "id": "Histoire-Géographie_000",
+      "matiere": "Histoire-Géographie",
+      "question": "Qu'est-ce que l'équateur?",
+      "options": [
+        {
+          "label": "A",
+          "texte": "Ligne qui divise la Terre"
+        },
+        {
+          "label": "B",
+          "texte": "Frontière d'un pays"
+        },
+        {
+          "label": "C",
+          "texte": "Océan"
+        },
+        {
+          "label": "D",
+          "texte": "Montagne"
+        }
+      ],
+      "reponse_correcte": "A",
+      "explication": "La réponse est A: Ligne qui divise la Terre",
+      "concepts": [
+        "Équateur",
+        "Géographie"
+      ],
+      "niveau": "6ème",
+      "type_exercice": "QCM"
+    },
+    {
+      "id": "Histoire-Géographie_001",
+      "matiere": "Histoire-Géographie",
+      "question": "Quel est le plus grand océan?",
+      "options": [
+        {
+          "label": "A",
+          "texte": "Pacifique"
+        },
+        {
+          "label": "B",
+          "texte": "Atlantique"
+        },
+        {
+          "label": "C",
+          "texte": "Indien"
+        },
+        {
+          "label": "D",
+          "texte": "Arctique"
+        }
+      ],
+      "reponse_correcte": "A",
+      "explication": "La réponse est A: Pacifique",
+      "concepts": [
+        "Océans",
+        "Géographie"
+      ],
+      "niveau": "6ème",
+      "type_exercice": "QCM"
+    },
+    {
+      "id": "Histoire-Géographie_002",
+      "matiere": "Histoire-Géographie",
+      "question": "Combien de continents?",
+      "options": [
+        {
+          "label": "A",
+          "texte": "7"
+        },
+        {
+          "label": "B",
+          "texte": "5"
+        },
+        {
+          "label": "C",
+          "texte": "6"
+        },
+        {
+          "label": "D",
+          "texte": "8"
+        }
+      ],
+      "reponse_correcte": "A",
+      "explication": "La réponse est A: 7",
+      "concepts": [
+        "Continents",
+        "Géographie"
+      ],
+      "niveau": "6ème",
+      "type_exercice": "QCM"
+    },
+    {
+      "id": "Histoire-Géographie_003",
+      "matiere": "Histoire-Géographie",
+      "question": "Quelle est la capitale de la France?",
+      "options": [
+        {
+          "label": "A",
+          "texte": "Paris"
+        },
+        {
+          "label": "B",
+          "texte": "Lyon"
+        },
+        {
+          "label": "C",
+          "texte": "Marseille"
+        },
+        {
+          "label": "D",
+          "texte": "Toulouse"
+        }
+      ],
+      "reponse_correcte": "A",
+      "explication": "La réponse est A: Paris",
+      "concepts": [
+        "France",
+        "Géographie"
+      ],
+      "niveau": "6ème",
+      "type_exercice": "QCM"
+    },
+    {
+      "id": "Histoire-Géographie_004",
+      "matiere": "Histoire-Géographie",
+      "question": "Quand la Préhistoire a-t-elle commencé?",
+      "options": [
+        {
+          "label": "A",
+          "texte": "Avant l'écriture"
+        },
+        {
+          "label": "B",
+          "texte": "Après l'écriture"
+        },
+        {
+          "label": "C",
+          "texte": "À l'an 0"
+        },
+        {
+          "label": "D",
+          "texte": "En 1000"
+        }
+      ],
+      "reponse_correcte": "A",
+      "explication": "La réponse est A: Avant l'écriture",
+      "concepts": [
+        "Préhistoire",
+        "Histoire"
+      ],
+      "niveau": "6ème",
+      "type_exercice": "QCM"
+    },
+    {
+      "id": "Histoire-Géographie_005",
+      "matiere": "Histoire-Géographie",
+      "question": "Qui a exploré l'Amérique?",
+      "options": [
+        {
+          "label": "A",
+          "texte": "Christophe Colomb"
+        },
+        {
+          "label": "B",
+          "texte": "Magellan"
+        },
+        {
+          "label": "C",
+          "texte": "Marco Polo"
+        },
+        {
+          "label": "D",
+          "texte": "Vasco de Gama"
+        }
+      ],
+      "reponse_correcte": "A",
+      "explication": "La réponse est A: Christophe Colomb",
+      "concepts": [
+        "Exploration",
+        "Histoire"
+      ],
+      "niveau": "6ème",
+      "type_exercice": "QCM"
+    }
+  ]
+}

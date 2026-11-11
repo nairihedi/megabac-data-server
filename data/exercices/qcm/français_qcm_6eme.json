@@ -1,0 +1,224 @@
+{
+  "subject": "Français",
+  "niveau": "6ème",
+  "total": 7,
+  "qcm": [
+    {
+      "id": "Français_000",
+      "matiere": "Français",
+      "question": "Qu'est-ce qu'un verbe?",
+      "options": [
+        {
+          "label": "A",
+          "texte": "Action ou état"
+        },
+        {
+          "label": "B",
+          "texte": "Nom du personnage"
+        },
+        {
+          "label": "C",
+          "texte": "Lieu du récit"
+        },
+        {
+          "label": "D",
+          "texte": "Temps de l'histoire"
+        }
+      ],
+      "reponse_correcte": "A",
+      "explication": "La réponse est A: Action ou état",
+      "concepts": [
+        "Verbe",
+        "Grammaire"
+      ],
+      "niveau": "6ème",
+      "type_exercice": "QCM"
+    },
+    {
+      "id": "Français_001",
+      "matiere": "Français",
+      "question": "Quel est le sujet de 'Le chat dort'?",
+      "options": [
+        {
+          "label": "A",
+          "texte": "Le chat"
+        },
+        {
+          "label": "B",
+          "texte": "dort"
+        },
+        {
+          "label": "C",
+          "texte": "chat"
+        },
+        {
+          "label": "D",
+          "texte": "Le"
+        }
+      ],
+      "reponse_correcte": "A",
+      "explication": "La réponse est A: Le chat",
+      "concepts": [
+        "Sujet",
+        "Phrase"
+      ],
+      "niveau": "6ème",
+      "type_exercice": "QCM"
+    },
+    {
+      "id": "Français_002",
+      "matiere": "Français",
+      "question": "Qu'est-ce qu'un texte narratif?",
+      "options": [
+        {
+          "label": "A",
+          "texte": "Qui raconte une histoire"
+        },
+        {
+          "label": "B",
+          "texte": "Qui décrit un lieu"
+        },
+        {
+          "label": "C",
+          "texte": "Qui donne une opinion"
+        },
+        {
+          "label": "D",
+          "texte": "Qui explique"
+        }
+      ],
+      "reponse_correcte": "A",
+      "explication": "La réponse est A: Qui raconte une histoire",
+      "concepts": [
+        "Texte narratif",
+        "Lecture"
+      ],
+      "niveau": "6ème",
+      "type_exercice": "QCM"
+    },
+    {
+      "id": "Français_003",
+      "matiere": "Français",
+      "question": "Comment s'appelle le héros?",
+      "options": [
+        {
+          "label": "A",
+          "texte": "Personnage principal"
+        },
+        {
+          "label": "B",
+          "texte": "Auteur"
+        },
+        {
+          "label": "C",
+          "texte": "Lecteur"
+        },
+        {
+          "label": "D",
+          "texte": "Critique"
+        }
+      ],
+      "reponse_correcte": "A",
+      "explication": "La réponse est A: Personnage principal",
+      "concepts": [
+        "Héros",
+        "Littérature"
+      ],
+      "niveau": "6ème",
+      "type_exercice": "QCM"
+    },
+    {
+      "id": "Français_004",
+      "matiere": "Français",
+      "question": "Qu'est-ce qu'un adjectif?",
+      "options": [
+        {
+          "label": "A",
+          "texte": "Mot qui modifie le nom"
+        },
+        {
+          "label": "B",
+          "texte": "Mot qui exprime l'action"
+        },
+        {
+          "label": "C",
+          "texte": "Mot invariable"
+        },
+        {
+          "label": "D",
+          "texte": "Mot de transition"
+        }
+      ],
+      "reponse_correcte": "A",
+      "explication": "La réponse est A: Mot qui modifie le nom",
+      "concepts": [
+        "Adjectif",
+        "Grammaire"
+      ],
+      "niveau": "6ème",
+      "type_exercice": "QCM"
+    },
+    {
+      "id": "Français_005",
+      "matiere": "Français",
+      "question": "Quel est le rôle de la ponctuation?",
+      "options": [
+        {
+          "label": "A",
+          "texte": "Clarifier le sens du texte"
+        },
+        {
+          "label": "B",
+          "texte": "Augmenter la longueur"
+        },
+        {
+          "label": "C",
+          "texte": "Changer les mots"
+        },
+        {
+          "label": "D",
+          "texte": "Ajouter des images"
+        }
+      ],
+      "reponse_correcte": "A",
+      "explication": "La réponse est A: Clarifier le sens du texte",
+      "concepts": [
+        "Ponctuation",
+        "Écriture"
+      ],
+      "niveau": "6ème",
+      "type_exercice": "QCM"
+    },
+    {
+      "id": "Français_006",
+      "matiere": "Français",
+      "question": "Qu'est-ce qu'une métaphore?",
+      "options": [
+        {
+          "label": "A",
+          "texte": "Comparaison sans 'comme'"
+        },
+        {
+          "label": "B",
+          "texte": "Répétition de sons"
+        },
+        {
+          "label": "C",
+          "texte": "Énumération"
+        },
+        {
+          "label": "D",
+          "texte": "Description détaillée"
+        }
+      ],
+      "reponse_correcte": "A",
+      "explication": "La réponse est A: Comparaison sans 'comme'",
+      "concepts": [
+        "Figure de style",
+        "Littérature"
+      ],
+      "niveau": "6ème",
+      "type_exercice": "QCM"
+    }
+  ]
+}

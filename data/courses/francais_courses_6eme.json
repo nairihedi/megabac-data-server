@@ -1,0 +1,50 @@
+{
+  "matiere": "Français",
+  "niveau": "6ème",
+  "total_courses": 2,
+  "courses": [
+    {
+      "id": "FR_001",
+      "titre": "Les parties du discours - Le verbe",
+      "domaine": "Étude de la langue",
+      "objectifs": [
+        "Identifier un verbe dans une phrase",
+        "Comprendre le rôle du verbe",
+        "Conjuguer les verbes au présent"
+      ],
+      "contenu": "\n## Qu'est-ce qu'un verbe?\n\nUn verbe est un mot qui exprime une **action** ou un **état**.\n\n### Exemples d'actions:\n- courir, manger, lire, écrire, danser, sauter\n\n### Exemples d'états:\n- être, sembler, paraître, rester, devenir\n\n## Le rôle du verbe dans la phrase\n\nLe verbe est le centre de la phrase. Tous les autres mots gravitent autour du verbe.\n\n### Exemple:\n\"**Le chat dort** sur le tapis.\"\n- Verbe: \"dort\" (action que fait le chat)\n- Sujet: \"Le chat\" (qui fait l'action)\n- Complément: \"sur le tapis\" (où il dort)\n\n## Conjugaison au présent (être et avoir)\n\n### Être (présent):\n- Je suis\n- Tu es\n- Il/Elle est\n- Nous sommes\n- Vous êtes\n- Ils/Elles sont\n\n### Avoir (présent):\n- J'ai\n- Tu as\n- Il/Elle a\n- Nous avons\n- Vous avez\n- Ils/Elles ont\n",
+      "concepts_cles": {
+        "Verbe": "Mot qui exprime une action ou un état",
+        "Action": "Ce que fait le sujet (courir, manger, lire)",
+        "État": "La situation du sujet (être, sembler, rester)",
+        "Conjugaison": "Modification du verbe selon le sujet"
+      },
+      "exercices_exemples": [
+        "Identifiez le verbe dans: 'Marie écrit une lettre.'",
+        "Complétez: 'Je ____ heureux.' (être)",
+        "Conjuguez 'avoir' à la 1ère personne du pluriel"
+      ]
+    },
+    {
+      "id": "FR_002",
+      "titre": "Comprendre une phrase simple",
+      "domaine": "Lecture",
+      "objectifs": [
+        "Identifier le sujet, verbe et complément",
+        "Comprendre la structure d'une phrase",
+        "Poser les bonnes questions pour analyser"
+      ],
+      "contenu": "\n## Les trois éléments d'une phrase simple\n\nUne phrase simple contient toujours trois éléments principaux:\n\n### 1. Le sujet: QUI fait l'action?\n- \"**Le chat** dort\" → sujet: Le chat\n\n### 2. Le verbe: QUEL est l'action?\n- \"Le chat **dort**\" → verbe: dort\n\n### 3. Le complément: OÙ? QUAND? COMMENT? QUOI?\n- \"Le chat dort **sur le tapis**\" → complément: sur le tapis\n\n## Exemple complet d'analyse:\n\nPhrase: \"Les enfants jouent au parc.\"\n\n- Sujet: \"Les enfants\" (QUI?)\n- Verbe: \"jouent\" (QUOI? QUELLES ACTION?)\n- Complément: \"au parc\" (OÙ?)\n\n## Les types de questions pour analyser\n\nPour bien analyser une phrase, posez-vous ces questions:\n- QUI? → Sujet\n- FAIT QUOI? → Verbe\n- OÙ? → Complément de lieu\n- QUAND? → Complément de temps\n- COMMENT? → Complément de manière\n",
+      "concepts_cles": {
+        "Phrase simple": "Une phrase avec un sujet, un verbe et un complément",
+        "Sujet": "La personne ou la chose qui fait l'action",
+        "Verbe": "L'action ou l'état du sujet",
+        "Complément": "Information supplémentaire (lieu, temps, manière)"
+      },
+      "exercices_exemples": [
+        "Identifiez sujet/verbe/complément dans: 'Sophie lit un livre à la maison.'",
+        "Posez les bonnes questions pour analyser une phrase"
+      ]
+    }
+  ]
+}

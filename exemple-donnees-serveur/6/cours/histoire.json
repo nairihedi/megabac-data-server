@@ -1,4 +1,22 @@
 [
-  { "id": "h-c1", "titre": "La guerre froide", "resume": "1947-1991, blocs et tensions" },
-  { "id": "h-c2", "titre": "La décolonisation", "resume": "Indépendances et recompositions, 1945-1975" }
+  {
+    "id": "histoire-c-u8h32",
+    "titre": "Les débuts de l'humanité : le Paléolithique",
+    "resume": "Le Paléolithique ou l’âge de la pierre taillée"
+  },
+  {
+    "id": "histoire-c-v5cqk",
+    "titre": "Les débuts de l'humanité : le Néolithique",
+    "resume": "Le Néolithique ou l’âge de la pierre polie"
+  },
+  {
+    "id": "h-c2",
+    "titre": "La décolonisation",
+    "resume": "Indépendances et recompositions, 1945-1975"
+  },
+  {
+    "id": "h-c1",
+    "titre": "La guerre froide",
+    "resume": "1947-1991, blocs et tensions"
+  }
 ]

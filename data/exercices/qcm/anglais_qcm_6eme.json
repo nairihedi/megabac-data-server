@@ -1,0 +1,193 @@
+{
+  "subject": "Anglais",
+  "niveau": "6ème",
+  "total": 6,
+  "qcm": [
+    {
+      "id": "Anglais_000",
+      "matiere": "Anglais",
+      "question": "How do you say 'Hello'?",
+      "options": [
+        {
+          "label": "A",
+          "texte": "Hello"
+        },
+        {
+          "label": "B",
+          "texte": "Goodbye"
+        },
+        {
+          "label": "C",
+          "texte": "Thank you"
+        },
+        {
+          "label": "D",
+          "texte": "Please"
+        }
+      ],
+      "reponse_correcte": "A",
+      "explication": "La réponse est A: Hello",
+      "concepts": [
+        "Greetings",
+        "Vocabulaire"
+      ],
+      "niveau": "6ème",
+      "type_exercice": "QCM"
+    },
+    {
+      "id": "Anglais_001",
+      "matiere": "Anglais",
+      "question": "What is 'I am'?",
+      "options": [
+        {
+          "label": "A",
+          "texte": "Je suis"
+        },
+        {
+          "label": "B",
+          "texte": "Tu es"
+        },
+        {
+          "label": "C",
+          "texte": "Il est"
+        },
+        {
+          "label": "D",
+          "texte": "Elle est"
+        }
+      ],
+      "reponse_correcte": "A",
+      "explication": "La réponse est A: Je suis",
+      "concepts": [
+        "Verbe to be",
+        "Grammaire"
+      ],
+      "niveau": "6ème",
+      "type_exercice": "QCM"
+    },
+    {
+      "id": "Anglais_002",
+      "matiere": "Anglais",
+      "question": "Complétez: 'My name ___ John'",
+      "options": [
+        {
+          "label": "A",
+          "texte": "is"
+        },
+        {
+          "label": "B",
+          "texte": "am"
+        },
+        {
+          "label": "C",
+          "texte": "are"
+        },
+        {
+          "label": "D",
+          "texte": "be"
+        }
+      ],
+      "reponse_correcte": "A",
+      "explication": "La réponse est A: is",
+      "concepts": [
+        "To be",
+        "Grammaire"
+      ],
+      "niveau": "6ème",
+      "type_exercice": "QCM"
+    },
+    {
+      "id": "Anglais_003",
+      "matiere": "Anglais",
+      "question": "How do you say 'Thank you'?",
+      "options": [
+        {
+          "label": "A",
+          "texte": "Thank you"
+        },
+        {
+          "label": "B",
+          "texte": "You're welcome"
+        },
+        {
+          "label": "C",
+          "texte": "Sorry"
+        },
+        {
+          "label": "D",
+          "texte": "Excuse me"
+        }
+      ],
+      "reponse_correcte": "A",
+      "explication": "La réponse est A: Thank you",
+      "concepts": [
+        "Politeness",
+        "Vocabulaire"
+      ],
+      "niveau": "6ème",
+      "type_exercice": "QCM"
+    },
+    {
+      "id": "Anglais_004",
+      "matiere": "Anglais",
+      "question": "What is the color of the sky?",
+      "options": [
+        {
+          "label": "A",
+          "texte": "Blue"
+        },
+        {
+          "label": "B",
+          "texte": "Red"
+        },
+        {
+          "label": "C",
+          "texte": "Green"
+        },
+        {
+          "label": "D",
+          "texte": "Yellow"
+        }
+      ],
+      "reponse_correcte": "A",
+      "explication": "La réponse est A: Blue",
+      "concepts": [
+        "Colors",
+        "Vocabulaire"
+      ],
+      "niveau": "6ème",
+      "type_exercice": "QCM"
+    },
+    {
+      "id": "Anglais_005",
+      "matiere": "Anglais",
+      "question": "Translate 'chat' to English",
+      "options": [
+        {
+          "label": "A",
+          "texte": "Cat"
+        },
+        {
+          "label": "B",
+          "texte": "Dog"
+        },
+        {
+          "label": "C",
+          "texte": "Bird"
+        },
+        {
+          "label": "D",
+          "texte": "Fish"
+        }
+      ],
+      "reponse_correcte": "A",
+      "explication": "La réponse est A: Cat",
+      "concepts": [
+        "Animals",
+        "Vocabulaire"
+      ],
+      "niveau": "6ème",
+      "type_exercice": "QCM"
+    }
+  ]
+}

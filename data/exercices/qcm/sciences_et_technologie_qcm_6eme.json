@@ -1,0 +1,193 @@
+{
+  "subject": "Sciences et Technologie",
+  "niveau": "6ème",
+  "total": 6,
+  "qcm": [
+    {
+      "id": "Sciences et Technologie_000",
+      "matiere": "Sciences et Technologie",
+      "question": "Qu'est-ce qu'une cellule?",
+      "options": [
+        {
+          "label": "A",
+          "texte": "Unité vivante"
+        },
+        {
+          "label": "B",
+          "texte": "Partie de l'atome"
+        },
+        {
+          "label": "C",
+          "texte": "Type de protéine"
+        },
+        {
+          "label": "D",
+          "texte": "Organe du corps"
+        }
+      ],
+      "reponse_correcte": "A",
+      "explication": "La réponse est A: Unité vivante",
+      "concepts": [
+        "Cellule",
+        "SVT"
+      ],
+      "niveau": "6ème",
+      "type_exercice": "QCM"
+    },
+    {
+      "id": "Sciences et Technologie_001",
+      "matiere": "Sciences et Technologie",
+      "question": "À quelle température l'eau bout?",
+      "options": [
+        {
+          "label": "A",
+          "texte": "100°C"
+        },
+        {
+          "label": "B",
+          "texte": "50°C"
+        },
+        {
+          "label": "C",
+          "texte": "0°C"
+        },
+        {
+          "label": "D",
+          "texte": "150°C"
+        }
+      ],
+      "reponse_correcte": "A",
+      "explication": "La réponse est A: 100°C",
+      "concepts": [
+        "États de la matière",
+        "Physique"
+      ],
+      "niveau": "6ème",
+      "type_exercice": "QCM"
+    },
+    {
+      "id": "Sciences et Technologie_002",
+      "matiere": "Sciences et Technologie",
+      "question": "Qu'est-ce qu'un atome?",
+      "options": [
+        {
+          "label": "A",
+          "texte": "Plus petite particule"
+        },
+        {
+          "label": "B",
+          "texte": "Molécule complexe"
+        },
+        {
+          "label": "C",
+          "texte": "Type d'énergie"
+        },
+        {
+          "label": "D",
+          "texte": "Gaz"
+        }
+      ],
+      "reponse_correcte": "A",
+      "explication": "La réponse est A: Plus petite particule",
+      "concepts": [
+        "Atome",
+        "Chimie"
+      ],
+      "niveau": "6ème",
+      "type_exercice": "QCM"
+    },
+    {
+      "id": "Sciences et Technologie_003",
+      "matiere": "Sciences et Technologie",
+      "question": "Quel est le rôle de la photosynthèse?",
+      "options": [
+        {
+          "label": "A",
+          "texte": "Produire du glucose"
+        },
+        {
+          "label": "B",
+          "texte": "Créer de l'oxygène"
+        },
+        {
+          "label": "C",
+          "texte": "Manger la lumière"
+        },
+        {
+          "label": "D",
+          "texte": "Transporter l'eau"
+        }
+      ],
+      "reponse_correcte": "A",
+      "explication": "La réponse est A: Produire du glucose",
+      "concepts": [
+        "Photosynthèse",
+        "SVT"
+      ],
+      "niveau": "6ème",
+      "type_exercice": "QCM"
+    },
+    {
+      "id": "Sciences et Technologie_004",
+      "matiere": "Sciences et Technologie",
+      "question": "Qu'est-ce qu'un capteur?",
+      "options": [
+        {
+          "label": "A",
+          "texte": "Détecte les changements"
+        },
+        {
+          "label": "B",
+          "texte": "Moteur"
+        },
+        {
+          "label": "C",
+          "texte": "Source d'énergie"
+        },
+        {
+          "label": "D",
+          "texte": "Fil électrique"
+        }
+      ],
+      "reponse_correcte": "A",
+      "explication": "La réponse est A: Détecte les changements",
+      "concepts": [
+        "Capteur",
+        "Technologie"
+      ],
+      "niveau": "6ème",
+      "type_exercice": "QCM"
+    },
+    {
+      "id": "Sciences et Technologie_005",
+      "matiere": "Sciences et Technologie",
+      "question": "Combien de membres l'homme a-t-il?",
+      "options": [
+        {
+          "label": "A",
+          "texte": "4"
+        },
+        {
+          "label": "B",
+          "texte": "2"
+        },
+        {
+          "label": "C",
+          "texte": "6"
+        },
+        {
+          "label": "D",
+          "texte": "3"
+        }
+      ],
+      "reponse_correcte": "A",
+      "explication": "La réponse est A: 4",
+      "concepts": [
+        "Anatomie",
+        "SVT"
+      ],
+      "niveau": "6ème",
+      "type_exercice": "QCM"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "matiere": "Sciences et Technologie",
+  "niveau": "6ème",
+  "total_courses": 1,
+  "courses": [
+    {
+      "id": "SC_001",
+      "titre": "La cellule: unité de la vie",
+      "domaine": "Sciences de la Vie et de la Terre (SVT)",
+      "objectifs": [
+        "Comprendre qu'tous les êtres vivants sont faits de cellules",
+        "Connaître les parties d'une cellule",
+        "Différencier les cellules animales et végétales"
+      ],
+      "contenu": "\n## Qu'est-ce qu'une cellule?\n\nLa cellule est la plus petite unité de vie. Tous les êtres vivants sont composés d'au moins une cellule.\n\n### Exemples:\n- Un humain: 37 milliards de cellules!\n- Une bactérie: 1 cellule seulement\n- Une plante: des millions de cellules\n\n## Les trois règles de la cellule\n\n### 1. Théorie cellulaire\nTous les êtres vivants sont composés de cellules.\n\n### 2. Toutes les cellules viennent de cellules\nLes cellules se reproduisent par division.\n\n### 3. La cellule est l'unité de vie\nC'est la plus petite unité qui peut vivre seule.\n\n## Les parties d'une cellule\n\n### Membrane cellulaire\n- Enveloppe qui entoure la cellule\n- Contrôle ce qui entre et sort\n\n### Noyau\n- Centre de commande de la cellule\n- Contient l'ADN (information génétique)\n\n### Cytoplasme\n- Matière gélatineuse à l'intérieur\n- Contient les autres structures\n\n### Mitochondrie\n- \"Centrale électrique\" de la cellule\n- Produit l'énergie\n\n## Cellule animale vs Cellule végétale\n\n### Cellule animale:\n- Membrane cellulaire\n- Noyau\n- Mitochondries\n- Forme ronde/irrégulière\n\n### Cellule végétale:\n- **Paroi cellulaire** (en plus de la membrane)\n- **Chloroplaste** (pour la photosynthèse)\n- **Vacuole** (stockage)\n- Forme rectangulaire\n",
+      "concepts_cles": {
+        "Cellule": "Plus petite unité de vie",
+        "Membrane": "Enveloppe de la cellule",
+        "Noyau": "Centre de commande",
+        "Mitochondrie": "Centrale électrique de la cellule",
+        "Chloroplaste": "Produit l'énergie chez les plantes"
+      },
+      "exercices_exemples": [
+        "Dessinez une cellule animale avec ses parties",
+        "Comparez une cellule animale et végétale",
+        "Expliquez pourquoi les cellules sont importantes pour la vie"
+      ]
+    }
+  ]
+}

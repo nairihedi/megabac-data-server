@@ -1,0 +1,96 @@
+{
+  "matiere": "Histoire-Géographie",
+  "niveau": "6ème",
+  "programme_bo": "BO n° 31 du 30 juillet 2020",
+  "description": "Programme d'histoire-géographie pour le cycle 3 (classe de 6ème)",
+  "disciplines": [
+    "Histoire",
+    "Géographie"
+  ],
+  "domaines_apprentissage": [
+    {
+      "id": "HIS",
+      "nom": "Histoire",
+      "description": "Comprendre le passé et développer le sens historique",
+      "competences": [
+        {
+          "id": "HIS.1",
+          "titre": "Périodes historiques",
+          "description": "Situer des événements dans le temps"
+        },
+        {
+          "id": "HIS.2",
+          "titre": "Sources historiques",
+          "description": "Analyser des documents historiques"
+        }
+      ],
+      "periodes": [
+        "Préhistoire",
+        "Antiquité",
+        "Moyen Âge",
+        "Époque moderne",
+        "Époque contemporaine"
+      ],
+      "concepts_cles": [
+        "Chronologie",
+        "Cause et conséquence",
+        "Civilisations",
+        "Changements"
+      ]
+    },
+    {
+      "id": "GEO",
+      "nom": "Géographie",
+      "description": "Comprendre l'espace et ses enjeux",
+      "competences": [
+        {
+          "id": "GEO.1",
+          "titre": "Orientation et localisation",
+          "description": "Se repérer dans l'espace à différentes échelles"
+        },
+        {
+          "id": "GEO.2",
+          "titre": "Paysages et territoires",
+          "description": "Décrire et analyser les paysages"
+        },
+        {
+          "id": "GEO.3",
+          "titre": "Enjeux géographiques",
+          "description": "Comprendre les enjeux humains et naturels"
+        }
+      ],
+      "themes": [
+        "Localisation et représentation",
+        "Habiter le monde",
+        "Mers et océans",
+        "Densités et peuplement",
+        "Ressources naturelles"
+      ],
+      "concepts_cles": [
+        "Latitude",
+        "Longitude",
+        "Équateur",
+        "Tropiques",
+        "Climat",
+        "Population"
+      ]
+    }
+  ],
+  "evaluation": {
+    "types_exercices": [
+      "Questionnaires de compréhension",
+      "Analyse de documents",
+      "Cartes et représentations",
+      "Frises chronologiques",
+      "Descriptions de paysages"
+    ]
+  },
+  "sources": {
+    "programme_officiel": "Bulletin Officiel n° 31 du 30 juillet 2020"
+  },
+  "_metadata": {
+    "created_at": "2026-10-01T12:14:27.336339",
+    "version": "1.0",
+    "format": "JSON Curriculum"
+  }
+}

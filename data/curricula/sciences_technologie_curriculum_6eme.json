@@ -1,0 +1,128 @@
+{
+  "matiere": "Sciences et Technologie",
+  "niveau": "6ème",
+  "programme_bo": "BO n° 25 du 22 juin 2023",
+  "description": "Programme de sciences et technologie pour le cycle 3 (classe de 6ème) - Regroupé SVT + Physique-Chimie",
+  "note": "Éduscol regroupe SVT, Physique-Chimie et Technologie. Pour Megabac, ils seront potentiellement séparés.",
+  "domaines_apprentissage": [
+    {
+      "id": "SVT",
+      "nom": "Sciences de la Vie et de la Terre (SVT)",
+      "description": "Comprendre le vivant et l'environnement",
+      "competences": [
+        {
+          "id": "SVT.1",
+          "titre": "Organisation du vivant",
+          "description": "Comprendre la structure et la fonction des êtres vivants"
+        },
+        {
+          "id": "SVT.2",
+          "titre": "Écosystèmes",
+          "description": "Analyser les relations dans un écosystème"
+        },
+        {
+          "id": "SVT.3",
+          "titre": "Santé",
+          "description": "Comprendre l'hygiène et la santé"
+        }
+      ],
+      "themes": [
+        "La matière vivante",
+        "Croissance et reproduction",
+        "Chaîne alimentaire",
+        "Écosystèmes locaux",
+        "Biodiversité",
+        "Équilibre écologique"
+      ],
+      "concepts_cles": [
+        "Cellule",
+        "Photosynthèse",
+        "Appareil digestif",
+        "Biodiversité"
+      ]
+    },
+    {
+      "id": "PC",
+      "nom": "Physique-Chimie",
+      "description": "Comprendre la matière et les transformations",
+      "competences": [
+        {
+          "id": "PC.1",
+          "titre": "Matière et propriétés",
+          "description": "Identifier et classifier la matière"
+        },
+        {
+          "id": "PC.2",
+          "titre": "Transformations",
+          "description": "Comprendre les réactions chimiques"
+        },
+        {
+          "id": "PC.3",
+          "titre": "Énergie et forces",
+          "description": "Analyser les forces et l'énergie"
+        }
+      ],
+      "themes": [
+        "États de la matière",
+        "Changements d'états",
+        "Mélanges et solutions",
+        "Réactions chimiques simples",
+        "Sources d'énergie",
+        "Mouvements et forces"
+      ],
+      "concepts_cles": [
+        "Atome",
+        "Molécule",
+        "Réaction chimique",
+        "Énergie",
+        "Force"
+      ]
+    },
+    {
+      "id": "TECH",
+      "nom": "Technologie",
+      "description": "Comprendre les objets et systèmes techniques",
+      "competences": [
+        {
+          "id": "TECH.1",
+          "titre": "Design et production",
+          "description": "Analyser et concevoir des objets"
+        },
+        {
+          "id": "TECH.2",
+          "titre": "Systèmes et automatis",
+          "description": "Comprendre le fonctionnement des systèmes"
+        }
+      ],
+      "themes": [
+        "Objets et matériaux",
+        "Énergie et puissance",
+        "Automatismes",
+        "Programmation simple"
+      ],
+      "concepts_cles": [
+        "Fonction technique",
+        "Énergie",
+        "Capteur",
+        "Actionneur"
+      ]
+    }
+  ],
+  "evaluation": {
+    "types_exercices": [
+      "Observation et expérimentation",
+      "Analyse de phénomènes",
+      "Schémas et diagrammes",
+      "Résolution de problèmes",
+      "Projets techniques"
+    ]
+  },
+  "sources": {
+    "programme_officiel": "Bulletin Officiel n° 25 du 22 juin 2023"
+  },
+  "_metadata": {
+    "created_at": "2026-10-01T12:14:27.337215",
+    "version": "1.0",
+    "format": "JSON Curriculum"
+  }
+}

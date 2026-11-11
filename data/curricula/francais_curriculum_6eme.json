@@ -1,0 +1,185 @@
+{
+  "matiere": "Français",
+  "niveau": "6ème",
+  "programme_bo": "BO n° 16 du 17 avril 2025",
+  "description": "Programme de français pour le cycle 3 (classe de 6ème)",
+  "domaines_apprentissage": [
+    {
+      "id": "LO",
+      "nom": "Langage oral",
+      "description": "Développer l'écoute active et l'expression orale",
+      "competences": [
+        {
+          "id": "LO.1",
+          "titre": "Écouter et comprendre",
+          "description": "Comprendre un message oral et identifier les informations principales"
+        },
+        {
+          "id": "LO.2",
+          "titre": "S'exprimer à l'oral",
+          "description": "Produire des énoncés clairs et adaptés à la situation de communication"
+        }
+      ],
+      "concepts_cles": [
+        "Lexique",
+        "Intonation",
+        "Phonologie",
+        "Enonciation"
+      ]
+    },
+    {
+      "id": "LEC",
+      "nom": "Lecture",
+      "description": "Développer les compétences de compréhension et d'analyse de textes",
+      "competences": [
+        {
+          "id": "LEC.1",
+          "titre": "Lire et comprendre",
+          "description": "Identifier le sens global et les détails importants d'un texte"
+        },
+        {
+          "id": "LEC.2",
+          "titre": "Analyser un texte",
+          "description": "Identifier la structure et les procédés d'écriture d'un texte"
+        }
+      ],
+      "concepts_cles": [
+        "Texte narratif",
+        "Texte descriptif",
+        "Personnage",
+        "Intrigue"
+      ]
+    },
+    {
+      "id": "ECR",
+      "nom": "Écriture",
+      "description": "Développer les compétences de production écrite",
+      "competences": [
+        {
+          "id": "ECR.1",
+          "titre": "Rédiger un texte",
+          "description": "Produire un texte cohérent et structuré selon une intention"
+        },
+        {
+          "id": "ECR.2",
+          "titre": "Réviser son écrit",
+          "description": "Relire et corriger un texte pour améliorer sa qualité"
+        }
+      ],
+      "concepts_cles": [
+        "Structure narrative",
+        "Ponctuation",
+        "Orthographe",
+        "Cohérence"
+      ]
+    },
+    {
+      "id": "EL",
+      "nom": "Étude de la langue",
+      "description": "Acquérir les outils pour analyser et bien former la langue",
+      "competences": [
+        {
+          "id": "EL.1",
+          "titre": "Orthographe",
+          "description": "Maîtriser les règles d'orthographe grammaticale et lexicale"
+        },
+        {
+          "id": "EL.2",
+          "titre": "Grammaire",
+          "description": "Identifier et analyser les constituants d'une phrase"
+        },
+        {
+          "id": "EL.3",
+          "titre": "Vocabulaire",
+          "description": "Enrichir son vocabulaire et comprendre la formation des mots"
+        }
+      ],
+      "concepts_cles": [
+        "Phrase simple",
+        "Verbe",
+        "Sujet",
+        "Accord",
+        "Complément"
+      ]
+    },
+    {
+      "id": "LIT",
+      "nom": "Littérature et imaginaire",
+      "description": "Développer la culture littéraire et l'imagination",
+      "competences": [
+        {
+          "id": "LIT.1",
+          "titre": "Lire des œuvres",
+          "description": "Découvrir différents genres littéraires et œuvres majeures"
+        },
+        {
+          "id": "LIT.2",
+          "titre": "Analyser un récit",
+          "description": "Identifier les éléments caractéristiques d'une histoire"
+        }
+      ],
+      "concepts_cles": [
+        "Conte",
+        "Légende",
+        "Roman",
+        "Nouvelle",
+        "Héros"
+      ]
+    }
+  ],
+  "progression_annuelle": [
+    {
+      "trimestre": 1,
+      "titre": "Trimestre 1 - Septembre à novembre",
+      "themes": [
+        "Accueil - Se présenter",
+        "Les genres littéraires",
+        "Communication orale"
+      ]
+    },
+    {
+      "trimestre": 2,
+      "titre": "Trimestre 2 - Décembre à février",
+      "themes": [
+        "Récit et aventure",
+        "Analyse de textes",
+        "Projet d'écriture"
+      ]
+    },
+    {
+      "trimestre": 3,
+      "titre": "Trimestre 3 - Mars à juin",
+      "themes": [
+        "Littérature jeunesse",
+        "Expression créative",
+        "Bilan et projets finaux"
+      ]
+    }
+  ],
+  "evaluation": {
+    "types_exercices": [
+      "Compréhension orale",
+      "Expression orale",
+      "Compréhension écrite",
+      "Production écrite",
+      "Analyse grammaticale",
+      "Vocabulaire"
+    ],
+    "criteres_evaluation": [
+      "Compréhension du message",
+      "Clarté de l'expression",
+      "Qualité de la structure",
+      "Respectdes règles de la langue",
+      "Richesse du vocabulaire"
+    ]
+  },
+  "sources": {
+    "programme_officiel": "Bulletin Officiel n° 16 du 17 avril 2025",
+    "ressources_eduscol": "https://eduscol.education.gouv.fr/4800/ressources-d-accompagnement-du-programme-de-francais-au-cycle-3"
+  },
+  "_metadata": {
+    "created_at": "2026-10-01T12:14:27.332711",
+    "version": "1.0",
+    "format": "JSON Curriculum"
+  }
+}

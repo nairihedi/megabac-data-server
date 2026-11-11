@@ -1,7 +1,27 @@
 [
-  { "id": "maths-c1", "titre": "Nombres entiers et décimaux", "resume": "Lire, écrire, comparer et ranger des nombres entiers et décimaux." },
-  { "id": "maths-c2", "titre": "Fractions simples", "resume": "Comprendre les fractions simples et les relier au partage et au quotient." },
-  { "id": "maths-c3", "titre": "Calculs et problèmes", "resume": "Calculer avec des nombres entiers et décimaux, puis résoudre des problèmes simples." },
-  { "id": "maths-c4", "titre": "Grandeurs et mesures", "resume": "Mesurer, convertir et calculer des périmètres, aires, volumes et durées." },
-  { "id": "maths-c5", "titre": "Géométrie et symétrie", "resume": "Reconnaître, construire et décrire des figures, des angles et des symétries." }
+  {
+    "id": "maths-c1",
+    "titre": "Nombres entiers et décimaux",
+    "resume": "Lire, écrire, comparer et ranger des nombres entiers et décimaux."
+  },
+  {
+    "id": "maths-c2",
+    "titre": "Fractions simples",
+    "resume": "Comprendre les fractions simples et les relier au partage et au quotient."
+  },
+  {
+    "id": "maths-c3",
+    "titre": "Calculs et problèmes",
+    "resume": "Calculer avec des nombres entiers et décimaux, puis résoudre des problèmes simples."
+  },
+  {
+    "id": "maths-c4",
+    "titre": "Grandeurs et mesures",
+    "resume": "Mesurer, convertir et calculer des périmètres, aires, volumes et durées."
+  },
+  {
+    "id": "maths-c5",
+    "titre": "Géométrie et symétrie",
+    "resume": "Reconnaître, construire et décrire des figures, des angles et des symétries."
+  }
 ]

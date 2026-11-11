@@ -1,0 +1,224 @@
+{
+  "subject": "Mathématiques",
+  "niveau": "6ème",
+  "total": 7,
+  "qcm": [
+    {
+      "id": "Mathématiques_000",
+      "matiere": "Mathématiques",
+      "question": "Combien de côtés a un triangle?",
+      "options": [
+        {
+          "label": "A",
+          "texte": "3"
+        },
+        {
+          "label": "B",
+          "texte": "4"
+        },
+        {
+          "label": "C",
+          "texte": "5"
+        },
+        {
+          "label": "D",
+          "texte": "6"
+        }
+      ],
+      "reponse_correcte": "A",
+      "explication": "La réponse est A: 3",
+      "concepts": [
+        "Triangle",
+        "Géométrie"
+      ],
+      "niveau": "6ème",
+      "type_exercice": "QCM"
+    },
+    {
+      "id": "Mathématiques_001",
+      "matiere": "Mathématiques",
+      "question": "Qu'est-ce qu'un nombre décimal?",
+      "options": [
+        {
+          "label": "A",
+          "texte": "Nombre avec virgule"
+        },
+        {
+          "label": "B",
+          "texte": "Nombre négatif"
+        },
+        {
+          "label": "C",
+          "texte": "Nombre entier"
+        },
+        {
+          "label": "D",
+          "texte": "Nombre pair"
+        }
+      ],
+      "reponse_correcte": "A",
+      "explication": "La réponse est A: Nombre avec virgule",
+      "concepts": [
+        "Décimal",
+        "Nombres"
+      ],
+      "niveau": "6ème",
+      "type_exercice": "QCM"
+    },
+    {
+      "id": "Mathématiques_002",
+      "matiere": "Mathématiques",
+      "question": "Quel est le résultat de 5 × 3?",
+      "options": [
+        {
+          "label": "A",
+          "texte": "15"
+        },
+        {
+          "label": "B",
+          "texte": "8"
+        },
+        {
+          "label": "C",
+          "texte": "2"
+        },
+        {
+          "label": "D",
+          "texte": "12"
+        }
+      ],
+      "reponse_correcte": "A",
+      "explication": "La réponse est A: 15",
+      "concepts": [
+        "Multiplication",
+        "Calcul"
+      ],
+      "niveau": "6ème",
+      "type_exercice": "QCM"
+    },
+    {
+      "id": "Mathématiques_003",
+      "matiere": "Mathématiques",
+      "question": "Qu'est-ce qu'une fraction?",
+      "options": [
+        {
+          "label": "A",
+          "texte": "Partie d'un tout"
+        },
+        {
+          "label": "B",
+          "texte": "Un nombre entier"
+        },
+        {
+          "label": "C",
+          "texte": "Une division"
+        },
+        {
+          "label": "D",
+          "texte": "Un pourcentage"
+        }
+      ],
+      "reponse_correcte": "A",
+      "explication": "La réponse est A: Partie d'un tout",
+      "concepts": [
+        "Fraction",
+        "Nombres"
+      ],
+      "niveau": "6ème",
+      "type_exercice": "QCM"
+    },
+    {
+      "id": "Mathématiques_004",
+      "matiere": "Mathématiques",
+      "question": "Combien de mètres dans 1 km?",
+      "options": [
+        {
+          "label": "A",
+          "texte": "1000"
+        },
+        {
+          "label": "B",
+          "texte": "100"
+        },
+        {
+          "label": "C",
+          "texte": "10"
+        },
+        {
+          "label": "D",
+          "texte": "500"
+        }
+      ],
+      "reponse_correcte": "A",
+      "explication": "La réponse est A: 1000",
+      "concepts": [
+        "Longueur",
+        "Mesure"
+      ],
+      "niveau": "6ème",
+      "type_exercice": "QCM"
+    },
+    {
+      "id": "Mathématiques_005",
+      "matiere": "Mathématiques",
+      "question": "Qu'est-ce qu'une symétrie?",
+      "options": [
+        {
+          "label": "A",
+          "texte": "Correspondance exacte"
+        },
+        {
+          "label": "B",
+          "texte": "Rotation"
+        },
+        {
+          "label": "C",
+          "texte": "Agrandissement"
+        },
+        {
+          "label": "D",
+          "texte": "Déplacement"
+        }
+      ],
+      "reponse_correcte": "A",
+      "explication": "La réponse est A: Correspondance exacte",
+      "concepts": [
+        "Symétrie",
+        "Géométrie"
+      ],
+      "niveau": "6ème",
+      "type_exercice": "QCM"
+    },
+    {
+      "id": "Mathématiques_006",
+      "matiere": "Mathématiques",
+      "question": "Quel est le périmètre d'un carré de 5 cm?",
+      "options": [
+        {
+          "label": "A",
+          "texte": "20 cm"
+        },
+        {
+          "label": "B",
+          "texte": "25 cm"
+        },
+        {
+          "label": "C",
+          "texte": "10 cm"
+        },
+        {
+          "label": "D",
+          "texte": "15 cm"
+        }
+      ],
+      "reponse_correcte": "A",
+      "explication": "La réponse est A: 20 cm",
+      "concepts": [
+        "Périmètre",
+        "Géométrie"
+      ],
+      "niveau": "6ème",
+      "type_exercice": "QCM"
+    }
+  ]
+}

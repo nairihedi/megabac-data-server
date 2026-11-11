@@ -1,0 +1,31 @@
+{
+  "matiere": "Anglais",
+  "niveau": "6ème",
+  "total_courses": 1,
+  "courses": [
+    {
+      "id": "EN_001",
+      "titre": "Se présenter en anglais",
+      "domaine": "Production orale",
+      "objectifs": [
+        "Dire son nom en anglais",
+        "Donner son âge",
+        "Dire d'où on vient",
+        "Parler de ses loisirs"
+      ],
+      "contenu": "\n## Présentation de base\n\n### 1. Dire bonjour et son nom\n\n**Anglais:**\n\"Hello, my name is John.\"\n\n**Français:**\n\"Bonjour, je m'appelle John.\"\n\n**Structure:**\nHello / Hi + my name is + [nom]\n\n### 2. Dire son âge\n\n**Anglais:**\n\"I am 12 years old.\"\n\n**Français:**\n\"J'ai 12 ans.\" (littéralement: \"Je suis 12 ans vieux\")\n\n**Structure:**\nI am + [nombre] + years old\n\n### 3. Dire d'où on vient\n\n**Anglais:**\n\"I am from France.\"\n\n**Français:**\n\"Je viens de France.\"\n\n**Pays courants:**\n- France = France\n- England = Angleterre\n- Spain = Espagne\n- Germany = Allemagne\n- Italy = Italie\n\n### 4. Parler de ses loisirs\n\n**Anglais:**\n\"I like football.\"\n\"I like reading.\"\n\"I like swimming.\"\n\n**Structure:**\nI like + [verbe-ing] ou [nom]\n\n## Conversation complète\n\n**A:** Hello! My name is Sophie. I am 12 years old. I am from France.\n**B:** Hi Sophie! Nice to meet you.\n**A:** What about you?\n**B:** My name is Tom. I am 11 years old. I am from England. I like football.\n**A:** That's great! I like reading.\n",
+      "concepts_cles": {
+        "Hello": "Bonjour",
+        "My name is": "Je m'appelle",
+        "I am": "Je suis / J'ai (pour l'âge)",
+        "From": "De (provenance)",
+        "Like": "Aimer"
+      },
+      "exercices_exemples": [
+        "Présentez-vous en anglais (nom, âge, provenance)",
+        "Parlez de trois choses que vous aimez",
+        "Écoutez et complétez une présentation"
+      ]
+    }
+  ]
+}
